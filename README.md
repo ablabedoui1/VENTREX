@@ -63,6 +63,7 @@ ventrex-env\Scripts\activate
 The following pretrained artifacts are required for complete inference:
 
 * `ventrex_seg_checkpoint.pth.tar`: VentrEX-Seg neural-network checkpoint.
+* link: "/content/gdrive/MyDrive/haUNET3D_ACDColddata_trans/90I_20000E_1B/model-20000.pth.tar
 * `pmt_threshold_gbr.joblib`: gradient-boosting model for adaptive PM/T threshold prediction.
 
 .
